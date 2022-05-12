@@ -1,1 +1,1 @@
-# PythonSelfStudyPrograms
+# Python Self Study Programs
